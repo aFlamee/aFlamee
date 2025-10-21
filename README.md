@@ -2,6 +2,11 @@
 would have build it for a Döner
 ```
 
+```text
+Visit my Portfolio [ahmadelmir.me](https://ahmadelmir.me)
+```
+
+
 ## 🌐 Socials:
 [![Car content](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mx5.flameeey/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-el-mir/) 
