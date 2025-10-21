@@ -2,7 +2,7 @@
 would have build it for a Döner
 ```
 
-Visit my Portfolio [ahmadelmir.me](https://ahmadelmir.me)
+Visit my [Portfolio](https://ahmadelmir.me)
 
 ## 🌐 Socials:
 [![Car content](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mx5.flameeey/) 
