@@ -1,5 +1,5 @@
 ```text
-would have build it for a Döner
+love building fun and useful (to me) stuff
 ```
 
 Visit my [Portfolio](https://ahmadelmir.me)
